@@ -1,0 +1,7 @@
+:root {
+  --primary-font: 'Source Sans Pro', sans-serif;
+  --white: #FFFFFF;
+  --black: #000000;
+  --purple: rgb(217, 70, 239);
+  --dark-purple: rgba(147, 51, 235, 1);
+}

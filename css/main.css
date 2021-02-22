@@ -1,0 +1,32 @@
+/**
+ * The main CSS file
+ */
+
+body {
+  font-family: var(--primary-font);
+  background: var(--purple);
+  color: var(--white);
+  background: linear-gradient(349deg, var(--purple) 0%, var(--dark-purple) 100%);
+}
+
+h1.page-title {
+  text-align: center;
+  margin: 0;
+  padding: 50px 0 100px 0;
+  font-size: 48px;
+}
+
+#users {
+  width: 80vw;
+  min-height: 100vh;
+}
+
+#users .user {
+  margin-bottom: 75px;
+}
+
+#users .user img {
+  width: 100%;
+  border-radius: 50%;
+  border: 7px solid var(--white);
+}
